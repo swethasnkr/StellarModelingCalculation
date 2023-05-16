@@ -16,6 +16,4 @@ This Python program calculates the zero-age main sequence (ZAMS) structure of a 
 ## Installation
 Clone the GitHub repository:
 
-bash
-Copy code
 git clone https://github.com/swethasnkr/StellarModelingCalculation.git
